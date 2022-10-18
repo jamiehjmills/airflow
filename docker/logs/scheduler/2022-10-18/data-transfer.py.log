@@ -1,0 +1,25 @@
+[2022-10-18 21:45:20,910] {processor.py:153} INFO - Started process (PID=3543) to work on /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:20,917] {processor.py:641} INFO - Processing file /opt/airflow/dags/data-transfer.py for tasks to queue
+[2022-10-18 21:45:20,924] {logging_mixin.py:115} INFO - [2022-10-18 21:45:20,924] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:20,975] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:21,067] {processor.py:161} INFO - Processing /opt/airflow/dags/data-transfer.py took 0.189 seconds
+[2022-10-18 21:45:55,499] {processor.py:153} INFO - Started process (PID=3632) to work on /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:55,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/data-transfer.py for tasks to queue
+[2022-10-18 21:45:55,526] {logging_mixin.py:115} INFO - [2022-10-18 21:45:55,526] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:55,577] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:45:55,704] {processor.py:161} INFO - Processing /opt/airflow/dags/data-transfer.py took 0.252 seconds
+[2022-10-18 21:46:27,582] {processor.py:153} INFO - Started process (PID=3714) to work on /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:46:27,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/data-transfer.py for tasks to queue
+[2022-10-18 21:46:27,608] {logging_mixin.py:115} INFO - [2022-10-18 21:46:27,608] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:46:27,666] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:46:27,908] {processor.py:161} INFO - Processing /opt/airflow/dags/data-transfer.py took 0.403 seconds
+[2022-10-18 21:47:07,927] {processor.py:153} INFO - Started process (PID=3801) to work on /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:07,940] {processor.py:641} INFO - Processing file /opt/airflow/dags/data-transfer.py for tasks to queue
+[2022-10-18 21:47:07,946] {logging_mixin.py:115} INFO - [2022-10-18 21:47:07,946] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:08,002] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:08,211] {processor.py:161} INFO - Processing /opt/airflow/dags/data-transfer.py took 0.345 seconds
+[2022-10-18 21:47:42,034] {processor.py:153} INFO - Started process (PID=3862) to work on /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:42,050] {processor.py:641} INFO - Processing file /opt/airflow/dags/data-transfer.py for tasks to queue
+[2022-10-18 21:47:42,056] {logging_mixin.py:115} INFO - [2022-10-18 21:47:42,056] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:42,112] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data-transfer.py
+[2022-10-18 21:47:42,411] {processor.py:161} INFO - Processing /opt/airflow/dags/data-transfer.py took 0.446 seconds
